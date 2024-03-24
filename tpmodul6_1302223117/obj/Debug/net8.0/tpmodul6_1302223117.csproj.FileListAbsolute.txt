@@ -1,0 +1,15 @@
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\bin\Debug\net8.0\tpmodul6_1302223117.exe
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\bin\Debug\net8.0\tpmodul6_1302223117.deps.json
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\bin\Debug\net8.0\tpmodul6_1302223117.runtimeconfig.json
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\bin\Debug\net8.0\tpmodul6_1302223117.dll
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\bin\Debug\net8.0\tpmodul6_1302223117.pdb
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.AssemblyInfoInputs.cache
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.AssemblyInfo.cs
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.csproj.CoreCompileInputs.cache
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.sourcelink.json
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.dll
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\refint\tpmodul6_1302223117.dll
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.pdb
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\tpmodul6_1302223117.genruntimeconfig.cache
+C:\Users\yudha\OneDrive\Pictures\code\TPmod sem 4\tpmodul6_1302223117\tpmodul6_1302223117\obj\Debug\net8.0\ref\tpmodul6_1302223117.dll
